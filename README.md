@@ -3,7 +3,7 @@ This Django-based Vendor Management System allows you to manage vendor profiles,
 ## Setup Instructions
 ### 1. Clone the repository:
  - gh repo clone venkatesht1058/Vendor-Management-System-With-Performance-Metrics
- - cd vendor-management-system*
+ - cd vendor-management-system
 ### 2. Create a virtual environment:
 - python -m venv venv
 ### 3. Activate the virtual environment:
