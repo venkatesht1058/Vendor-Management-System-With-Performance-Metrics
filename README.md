@@ -2,7 +2,7 @@
 This Django-based Vendor Management System allows you to manage vendor profiles, track purchase orders, and calculate vendor performance metrics. Follow the instructions below to set up the system and explore the API endpoints.
 ## Setup Instructions
 ### 1. Clone the repository:
- - git clone https://github.com/yourusername/vendor-management-system.git
+ - git clone venkatesht1058/Vendor-Management-System-With-Performance-Metrics
  - cd vendor-management-system*
 ### 2. Create a virtual environment:
 - python -m venv venv
